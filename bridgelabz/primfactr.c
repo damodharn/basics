@@ -1,3 +1,5 @@
+//C prog to find Prime factors of a given NO.
+
 #include<stdio.h>
 void PrimeFactors(int);
 int isPrime(int);
